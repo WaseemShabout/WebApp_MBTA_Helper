@@ -1,2 +1,13 @@
 # WebApp_MTBA_Helper
-This is the base repo for the Web App-MBTA Helper project. Please read instructions. 
+Abhay Gohel, Andrea Keeler, Waseem Shabout
+MIS3615-Spring
+Professor Shankar
+21st February 2017
+Project Writeup & Reflection
+
+The purpose of this project was to create a simple webapp that permits a user to input their given location and receive information regarding where the nearest station is. The project first required you to build a back-end using the MBTA API and Google Maps API and dynamically render HTML to display the content to the user and prompt him/her to enter the necessary variables to run the program. Additionally we were told to utilize GitHub to merge changes and push our webapp to its digital hosting. However we quickly realized that it was actually more efficient for us to just utilize one screen rather than be each on our own as we needed three brains (if not four at times) to actually make things work. Overall the project was something that required large amounts of guidance from anyone who was willing to help. However the things that did go well were when we managed to get over one hurdle, we managed to not repeat the same mistakes in the next. Other than that, there wasn't really much that went well for us throughout the process. For example we were probably stuck for a good 45 minutes simply on finding out how to break the JSON string into its individual components.
+We addressed each coding task already preexisting on the PyCharm file. For each task we tested our code to make sure it was up and running before moving on. We would manually enter the variables in a test function on the bottom of the Python Script and make sure that given function would work correctly when unit testing. Google and StackOverflow were are two main references for assistance in writing our code. Within the MBTA_Helper file, the comment sections recall references to Google Web API URLs for further information on using APIs.
+From the beginning, we decided that we would not divide the work because one it would help us all learn. In addition, by working together we could have multiple heads trying to figure out the best way to write the back end. On major issue that arose as we worked was the time constraint. It initially took us 45+ minutes to complete the first two tasks, and from there we worked at a slower place trying to reason the code we wrote. Honestly I feel as though if I were to get a better understanding of the project explaining how the app should function first before diving into just solving the necessary functions. It would have made more sense for us to think first about everything that needs to be done and the experience being created and then go forward with the development.
+
+
+
